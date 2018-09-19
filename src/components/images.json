@@ -1,0 +1,50 @@
+[
+  {
+    "name": "aang",
+    "url": "./images/aang.jpg"
+  },
+  {
+    "name": "zuko",
+    "url": "./images/zuko.jpg"
+  },
+  {
+    "name": "katara",
+    "url": "./images/katara.jpg"
+  },
+  {
+    "name": "sokka",
+    "url": "./images/sokka.jpg"
+  },
+  {
+    "name": "toph",
+    "url": "./images/toph.jpg"
+  },
+  {
+    "name": "azula",
+    "url": "./images/azula.jpg"
+  },
+  {
+    "name": "iroh",
+    "url": "./images/iroh.jpg"
+  },
+  {
+    "name": "ozai",
+    "url": "./images/ozai.jpg"
+  },
+  {
+    "name": "mai",
+    "url": "./images/mai.jpg"
+  },
+  {
+    "name": "tylee",
+    "url": "./images/tylee.jpg"
+  },
+  {
+    "name": "appa",
+    "url": "./images/appa.jpg"
+  },
+  {
+    "name": "momo",
+    "url": "./images/momo.jpg"
+  }
+]
